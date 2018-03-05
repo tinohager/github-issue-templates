@@ -1,11 +1,7 @@
-### Prerequisites
+### Important specifications
 
-* [ ] Can you reproduce the problem in safe mode?
-* [ ] Are you running the latest version?
-* [ ] Did you check the debugging guide?
-* [ ] Did you check the FAQs on Discuss?
-* [ ] Are you reporting to the correct repository?
-* [ ] Did you perform a cursory search?
+* Which country is affected?
+* If you have found a mistake please also provide a valid source of your information?
 
 For more information, see the `CONTRIBUTING` guide.
 
@@ -13,16 +9,3 @@ For more information, see the `CONTRIBUTING` guide.
 
 [Description of the bug or feature]
 
-### Steps to Reproduce
-
-1. [First Step]
-2. [Second Step]
-3. [and so on...]
-
-**Expected behavior:** [What you expected to happen]
-
-**Actual behavior:** [What actually happened]
-
-### Versions
-
-You can get this information from executing `npm version`.
